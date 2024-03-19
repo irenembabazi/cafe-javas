@@ -1,0 +1,35 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(https://cafejavas.co.ug/root-assets/images/banner-4.jpg); 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    color:white;
+    background-color:white;
+
+}
+
+a{
+    color: white;
+}
+
+
+.start-button {
+    padding: 10px 20px;
+    background-color: red;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
+}
+img {
+    width: 100px; 
+    height: 100px; 
+    margin-right: 5px; 
+}
